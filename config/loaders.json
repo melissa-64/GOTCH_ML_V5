@@ -23,6 +23,13 @@
             "downloadUrl": "https://mega.nz/file/49ASGRCD#06k7N5q3niOubKN2vG-dR1CXjXlP7dL-qjJsRUVbPFE",
             "status": "online",
             "imageUrl": "https://www.dropbox.com/scl/fi/zu6qvieup3d23fnt8a3gp/blops-UA.exe?rlkey=ol2ijtuev7fgoi9752r5y9j47&dl=0"
+        },
+        {
+            "id": "AI Nizz",
+            "name": "AI Nizz",
+            "categoryId": "others",
+            "downloadUrl": "https://mega.nz/file/EwYQAawT#chTsw3oDrrizJIgcvlOXdM8C75S7PJuSge0rfKaoAfw",
+            "status": "online"
         }
     ]
 }
