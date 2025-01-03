@@ -1,9 +1,8 @@
 {
-    "defaultListView": false,
     "loaders": [
         {
             "id": "Silent",
-            "name": "Silent",
+            "name": "BO6 Silent Chair",
             "categoryId": "bo6",
             "downloadUrl": "https://gofile.io/d/Z198F2",
             "status": "online",
