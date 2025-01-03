@@ -1,20 +1,20 @@
 {
     "loaders": [
         {
-            "id": "Silent",
-            "name": "BO6 Silent Chair",
-            "categoryId": "bo6",
-            "downloadUrl": "https://gofile.io/d/Z198F2",
-            "status": "online",
-            "imageUrl": "https://cdn.discordapp.com/attachments/1294139642613858384/1320515514208092253/Silent_Chair.png?ex=677861e8&is=67771068&hm=2214f3b00195d0623e3ffb951d0c351b024f1acffa390e6bcc0e9aedbdeba3f0&"
-        },
-        {
             "id": "BO6 Unlock All",
             "name": "BO6 Unlock All",
             "categoryId": "bo6",
             "downloadUrl": "https://www.dropbox.com/scl/fi/zu6qvieup3d23fnt8a3gp/blops-UA.exe?rlkey=ol2ijtuev7fgoi9752r5y9j47&dl=0",
             "status": "online",
             "imageUrl": "https://www.dropbox.com/scl/fi/zu6qvieup3d23fnt8a3gp/blops-UA.exe?rlkey=ol2ijtuev7fgoi9752r5y9j47&dl=0"
+        },
+        {
+            "id": "Silent",
+            "name": "BO6 Silent Chair",
+            "categoryId": "bo6",
+            "downloadUrl": "https://gofile.io/d/Z198F2",
+            "status": "online",
+            "imageUrl": "https://cdn.discordapp.com/attachments/1294139642613858384/1320515514208092253/Silent_Chair.png?ex=677861e8&is=67771068&hm=2214f3b00195d0623e3ffb951d0c351b024f1acffa390e6bcc0e9aedbdeba3f0&"
         }
     ]
 }
