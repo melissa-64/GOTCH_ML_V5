@@ -16,6 +16,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6_Silent_Chair/blops.exe",
             "status": "updating",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6_Silent_Chair/BO6_Silent.png"
+        },
+        {
+            "id": "MW3 Silent Chair",
+            "name": "MW3 Silent Chair",
+            "categoryId": "mw3",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/MW3_Silent_Chair/u237cgatAh2.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/MW3_Silent_Chair/MW3_SILENT.png"
         }
     ]
 }
