@@ -1,18 +1,18 @@
 {
     "theme": {
         "core": {
-            "primary": "#9862b9",
+            "primary": "#Ffff00",
             "secondary": "#1C1C1C",
-            "accent": "#9862b9",
-            "scrollbar": "#9862b9"
+            "accent": "#Ffff00",
+            "scrollbar": "#Ffff00"
         },
         "text": {
             "primary": "#FFFFFF",
             "secondary": "#E0E0E0"
         },
         "button": {
-            "category": "#9862b9",
-            "action": "#9862b9"
+            "category": "#Ffff00",
+            "action": "#Ffff00"
         },
         "background": {
             "main": "#050505"
