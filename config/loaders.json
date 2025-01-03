@@ -1,12 +1,4 @@
 {
     "defaultListView": false,
-    "loaders": [
-        {
-            "id": "AI Nizz",
-            "name": "AI Nizz",
-            "categoryId": "others",
-            "downloadUrl": "https://mega.nz/file/EwYQAawT#chTsw3oDrrizJIgcvlOXdM8C75S7PJuSge0rfKaoAfw",
-            "status": "online"
-        }
-    ]
+    "loaders": []
 }
