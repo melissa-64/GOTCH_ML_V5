@@ -31,6 +31,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/MW3_Unlock_All/nRi28Wtqb1.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/MW3_Unlock_All/MW3_UA.png"
+        },
+        {
+            "id": "BO6 Loud Chair",
+            "name": "BO6 Loud Chair",
+            "categoryId": "bo6",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1PoZQQ1s-bHfl3QymEC1ApWNqYhJuijhn",
+            "status": "updating",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6_Loud_Chair/BO6_Loud.png"
         }
     ]
 }
