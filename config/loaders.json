@@ -32,6 +32,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/MW3_Unlock_All/nRi28Wtqb1.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/MW3_Unlock_All/MW3_UA.png"
+        },
+        {
+            "id": "AI Aimbot",
+            "name": "AI Aimbot",
+            "categoryId": "others",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/AI_Aimbot/Gotcha_AI.rar",
+            "status": "updating",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/AI_Aimbot/AI_Aimbot_Box.png"
         }
     ]
 }
