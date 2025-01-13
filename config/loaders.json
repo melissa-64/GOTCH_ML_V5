@@ -39,6 +39,14 @@
             "categoryId": "others",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Bot_Lobby_Tool/Gotcha_Bot_Lobby_Tool.exe",
             "status": "online"
+        },
+        {
+            "id": "BO6 Seal Chair",
+            "name": "BO6 Seal Chair",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Seal/Loader.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Seal/Seal_Chair_Box.png"
         }
     ]
 }
