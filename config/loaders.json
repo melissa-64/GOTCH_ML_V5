@@ -1,12 +1,11 @@
 {
-    "defaultListView": false,
     "loaders": [
         {
             "id": "BO6 Unlock All",
             "name": "BO6 Unlock All",
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6_UA/blops-UA.exe",
-            "status": "online",
+            "status": "updating",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6_UA/BO6_UA.png"
         },
         {
@@ -14,7 +13,7 @@
             "name": "BO6 Silent Chair",
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6_Silent_Chair/blops.exe",
-            "status": "online",
+            "status": "updating",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6_Silent_Chair/BO6_Silent.png"
         },
         {
@@ -22,7 +21,7 @@
             "name": "MW3 Silent Chair",
             "categoryId": "mw3",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/MW3_Silent_Chair/u237cgatAh2.exe",
-            "status": "online",
+            "status": "updating",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/MW3_Silent_Chair/MW3_SILENT.png"
         },
         {
@@ -30,7 +29,7 @@
             "name": "MW3 Unlock All",
             "categoryId": "mw3",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/MW3_Unlock_All/nRi28Wtqb1.exe",
-            "status": "online",
+            "status": "updating",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/MW3_Unlock_All/MW3_UA.png"
         },
         {
@@ -38,14 +37,14 @@
             "name": "Bot Lobby Tool",
             "categoryId": "others",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Bot_Lobby_Tool/Gotcha_Bot_Lobby_Tool.exe",
-            "status": "online"
+            "status": "updating"
         },
         {
             "id": "BO6 Nexus Chair",
             "name": "BO6 Nexus Chair",
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Nexus/Chair.exe",
-            "status": "online",
+            "status": "updating",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Nexus/Nexus_Chair_Box.png"
         }
     ]
