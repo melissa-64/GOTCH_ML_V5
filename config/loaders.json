@@ -1,13 +1,6 @@
 {
+    "defaultListView": false,
     "loaders": [
-        {
-            "id": "BO6 Nexus Chair",
-            "name": "BO6 Nexus Chair",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Nexus/Chair.exe",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Nexus/Nexus_Chair_Box.png"
-        },
         {
             "id": "BO6 Unlock All",
             "name": "BO6 Unlock All",
