@@ -69,6 +69,13 @@
             "categoryId": "fortnite",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.exe",
             "status": "online"
+        },
+        {
+            "id": "Marval Rivals External",
+            "name": "Marval Rivals External",
+            "categoryId": "others",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MARVELRIVALS.exe",
+            "status": "online"
         }
     ]
 }
