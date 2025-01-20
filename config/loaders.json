@@ -1,5 +1,4 @@
 {
-    "defaultListView": false,
     "loaders": [
         {
             "id": "BO6 Nexus Chair",
@@ -54,7 +53,7 @@
             "name": "BO6 Tester",
             "categoryId": "bo6",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Tester/loader_4.1.exe",
-            "status": "online"
+            "status": "custom"
         },
         {
             "id": "Valorant External",
