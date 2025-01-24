@@ -1,4 +1,5 @@
 {
+    "defaultListView": false,
     "loaders": [
         {
             "id": "BO6 Nexus Chair",
@@ -47,13 +48,6 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Bot_Lobby_Tool/Gotcha_Bot_Lobby_Tool.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Bot_Lobby_Tool/Bot_Lobby_Tool.png"
-        },
-        {
-            "id": "BO6 Tester",
-            "name": "BO6 Tester",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Tester/loader_4.1.exe",
-            "status": "custom"
         },
         {
             "id": "Valorant External",
