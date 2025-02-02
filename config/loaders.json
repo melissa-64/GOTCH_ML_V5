@@ -1,4 +1,5 @@
 {
+    "defaultListView": false,
     "loaders": [
         {
             "id": "BO6 Nexus Chair",
@@ -15,14 +16,6 @@
             "downloadUrl": "http://nizzware.online/Downloads/BO6Unlock/Loader.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6_UA/BO6_UA.png"
-        },
-        {
-            "id": "BO6 Silent Chair",
-            "name": "BO6 Silent Chair",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6_Silent_Chair/blops.exe",
-            "status": "offline",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6_Silent_Chair/BO6_Silent.png"
         },
         {
             "id": "MW3 Silent Chair",
