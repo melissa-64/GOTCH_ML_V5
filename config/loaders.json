@@ -54,6 +54,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/FN/FN_External.gif"
+        },
+        {
+            "id": "BO6 External",
+            "name": "BO6 External",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/LDV2_1.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6_External/Nexus_BO6_External.gif"
         }
     ]
 }
