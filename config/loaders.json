@@ -61,6 +61,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6__Internal/loader_4.8.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6__Internal/Internal.gif"
+        },
+        {
+            "id": "BO6 Nexus Chair",
+            "name": "BO6 Nexus Chair",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Nexus/Chair.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Nexus/Nexus_Chair.gif"
         }
     ]
 }
