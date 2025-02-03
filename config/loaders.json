@@ -62,6 +62,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Nexus/Chair.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Nexus/Nexus_Chair.gif"
+        },
+        {
+            "id": "Fortnite External",
+            "name": "Fortnite External",
+            "categoryId": "fortnite",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FORTNITE.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/FN/FN_External.gif"
         }
     ]
 }
