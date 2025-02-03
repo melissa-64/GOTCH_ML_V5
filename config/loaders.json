@@ -18,6 +18,14 @@
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6_UA/BO6_UA.png"
         },
         {
+            "id": "BO6 Internal",
+            "name": "BO6 Internal",
+            "categoryId": "others",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6__Internal/loader_4.8.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6__Internal/Internal.gif"
+        },
+        {
             "id": "Bot  Lobby Tool",
             "name": "Bot  Lobby Tool",
             "categoryId": "others",
@@ -38,14 +46,6 @@
             "categoryId": "others",
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MARVELRIVALS.exe",
             "status": "online"
-        },
-        {
-            "id": "BO6 Internal",
-            "name": "BO6 Internal",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6__Internal/loader_4.8.exe",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6__Internal/Internal.gif"
         },
         {
             "id": "BO6 Nexus Chair",
