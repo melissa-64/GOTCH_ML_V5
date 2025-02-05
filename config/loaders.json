@@ -18,14 +18,6 @@
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6_UA/Nexus_BO6_UA.gif"
         },
         {
-            "id": "BO6 Internal",
-            "name": "BO6 Internal",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Midnight/loader.exe",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6__Internal/Internal.gif"
-        },
-        {
             "id": "Bot  Lobby Tool",
             "name": "Bot  Lobby Tool",
             "categoryId": "others",
