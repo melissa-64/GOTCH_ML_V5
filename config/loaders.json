@@ -26,13 +26,6 @@
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Bot_Lobby_Tool/Bot_Lobby_Tool.png"
         },
         {
-            "id": "Marval Rivals External",
-            "name": "Marval Rivals External",
-            "categoryId": "others",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/MARVELRIVALS.exe",
-            "status": "online"
-        },
-        {
             "id": "BO6 External",
             "name": "BO6 External",
             "categoryId": "bo6",
