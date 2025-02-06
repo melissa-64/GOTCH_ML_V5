@@ -26,13 +26,6 @@
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Bot_Lobby_Tool/Bot_Lobby_Tool.png"
         },
         {
-            "id": "Valorant External",
-            "name": "Valorant External",
-            "categoryId": "valorant",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Valorant/VALORANT_V2.exe",
-            "status": "online"
-        },
-        {
             "id": "Marval Rivals External",
             "name": "Marval Rivals External",
             "categoryId": "others",
