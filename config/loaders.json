@@ -62,6 +62,14 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/FN_AI_Nizz/FortniteAI.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/AI_Aimbot/AI_Aimbot.gif"
+        },
+        {
+            "id": "BO6 Chair",
+            "name": "BO6 Chair",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Tester/loader_4.8.exe",
+            "status": "updating",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6__Internal/Internal.gif"
         }
     ]
 }
