@@ -56,6 +56,13 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Midnight/MN-LDR.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6__Internal/Internal.gif"
+        },
+        {
+            "id": "BO6 Zenith Internal",
+            "name": "BO6 Zenith Internal",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Zenith_Internal/t10-zl_jkbef32f.exe",
+            "status": "online"
         }
     ]
 }
