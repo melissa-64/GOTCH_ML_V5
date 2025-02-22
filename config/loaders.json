@@ -18,14 +18,6 @@
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6_External/Nexus_BO6_External.gif"
         },
         {
-            "id": "BO6 Chair",
-            "name": "BO6 Chair",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Zenith_Internal/Chair_BO6.exe",
-            "status": "updating",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/BO6__Internal/Internal.gif"
-        },
-        {
             "id": "BO6 Zenith Internal",
             "name": "BO6 Zenith Internal",
             "categoryId": "bo6",
