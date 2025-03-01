@@ -24,14 +24,6 @@
             "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Midnight/MN-LDR.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Midnight/Midnight_Chair.png"
-        },
-        {
-            "id": "Zenith UA",
-            "name": "Zenith UA",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Zenith/t10_ua_fow49f.exe",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Zenith/UA.png"
         }
     ]
 }
