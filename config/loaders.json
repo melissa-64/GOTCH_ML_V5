@@ -39,6 +39,14 @@
             "downloadUrl": "https://nizzware.online/Downloads/BO6Unlock/Loader.exe",
             "status": "online",
             "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Zenith/Zenith_UA.png"
+        },
+        {
+            "id": "BO6 Force Save",
+            "name": "BO6 Force Save",
+            "categoryId": "bo6",
+            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Zenith/t10_fs_xcvbmw.exe",
+            "status": "online",
+            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Zenith/Force_Save.png"
         }
     ]
 }
