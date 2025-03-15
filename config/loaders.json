@@ -2,14 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "Zenith Unlock All",
-            "name": "Zenith Unlock All",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Zenith/t10_ua_fow49f.exe",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Zenith/Zenith_UA.png"
-        },
-        {
             "id": "Unlock All",
             "name": "Nova Unlock All",
             "categoryId": "bo6",
