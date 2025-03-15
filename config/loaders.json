@@ -2,14 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "Zenith1",
-            "name": "Zenith ChairBO6",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Zenith/Zenith_Chair.exe",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Zenith/Zenith_Chair.png"
-        },
-        {
             "id": "Midnight Chair",
             "name": "Midnight Chair",
             "categoryId": "bo6",
