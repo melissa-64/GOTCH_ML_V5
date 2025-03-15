@@ -2,14 +2,6 @@
     "defaultListView": false,
     "loaders": [
         {
-            "id": "Midnight Chair",
-            "name": "Midnight Chair",
-            "categoryId": "bo6",
-            "downloadUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Midnight/MN-LDR.exe",
-            "status": "online",
-            "imageUrl": "https://raw.githubusercontent.com/avod245/1215795217840472126_cloud/main/Midnight/Midnight_Chair.png"
-        },
-        {
             "id": "Zenith Unlock All",
             "name": "Zenith Unlock All",
             "categoryId": "bo6",
